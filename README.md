@@ -2,7 +2,7 @@
 
 Visualizes your active SSH connections on a world map. Shows where each session is coming from, how long it's been running, and what command is active.
 
-![globe and flat-map views with session panels]
+![](sshmap.png)
 
 ## Requirements
 
